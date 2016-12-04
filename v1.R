@@ -53,5 +53,5 @@ cat( " correctly classified ",sumerize$table[2,2], "malignant tumors out of", su
 }
 
 ##########################################################
-
+#run this 
 console()
